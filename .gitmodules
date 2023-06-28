@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "funmediation"]
 	path = funmediation
 	url = https://github.com/cran/funmediation
-	shallow = true
-	registered = true
 [submodule "funreg"]
 	path = funreg
 	url = https://github.com/cran/funreg
-	shallow = true
-	registered = true
 [submodule "MOST"]
 	path = MOST
 	url = https://github.com/cran/MOST
-	shallow = true
-	registered = true
 [submodule "tvem"]
 	path = tvem
 	url = https://github.com/cran/tvem
-	shallow = true
-	registered = true
 [submodule "VariableScreening"]
 	path = VariableScreening
 	url = https://github.com/cran/VariableScreening
-	shallow = true
-	registered = true
