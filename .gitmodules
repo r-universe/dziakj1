@@ -13,7 +13,7 @@
 	url = https://github.com/cran/MOST
 [submodule "tvem"]
 	path = tvem
-	url = https://github.com/cran/tvem
+	url = https://github.com/dziakj1/tvem
 [submodule "VariableScreening"]
 	path = VariableScreening
 	url = https://github.com/cran/VariableScreening
