@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MOST"]
+	path = MOST
+	url = https://github.com/cran/MOST
+[submodule "VariableScreening"]
+	path = VariableScreening
+	url = https://github.com/cran/VariableScreening
 [submodule "funmediation"]
 	path = funmediation
 	url = https://github.com/cran/funmediation
 [submodule "funreg"]
 	path = funreg
 	url = https://github.com/cran/funreg
-[submodule "MOST"]
-	path = MOST
-	url = https://github.com/cran/MOST
 [submodule "tvem"]
 	path = tvem
 	url = https://github.com/dziakj1/tvem
-[submodule "VariableScreening"]
-	path = VariableScreening
-	url = https://github.com/cran/VariableScreening
