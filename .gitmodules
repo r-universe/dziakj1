@@ -10,7 +10,7 @@
 	url = https://github.com/cran/VariableScreening
 [submodule "funmediation"]
 	path = funmediation
-	url = https://github.com/cran/funmediation
+	url = https://github.com/dziakj1/funmediation
 [submodule "funreg"]
 	path = funreg
 	url = https://github.com/cran/funreg
